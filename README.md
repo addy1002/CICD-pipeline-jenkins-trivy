@@ -428,11 +428,11 @@ http://YOUR_EC2_PUBLIC_IP:8089
 
 | Step | Screenshot |
 |------|-----------|
-| EC2 Instance | ![EC2](screenshots/ec2-instance.png) |
-| Jenkins Setup | ![Jenkins](screenshots/jenkins-setup.png) |
-| SonarQube Result | ![SonarQube](screenshots/sonarqube-result.png) |
-| Pipeline Success | ![Pipeline](screenshots/pipeline-success.png) |
-| App Running | ![App](screenshots/app-running.png) |
+| Jenkins Setup | <img width="1470" height="956" alt="Screenshot 2026-05-15 at 5 59 17 PM" src="https://github.com/user-attachments/assets/f637dc9e-55e3-4719-88f0-9d0157da44cd" />
+
+| Pipeline Success | <img width="1470" height="956" alt="Screenshot 2026-05-15 at 7 04 22 PM" src="https://github.com/user-attachments/assets/7545c18d-fcb6-4daf-b134-b92afb021886" />
+ |
+
 
 ---
 
