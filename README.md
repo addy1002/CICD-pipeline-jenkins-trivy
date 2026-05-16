@@ -424,7 +424,7 @@ http://YOUR_EC2_PUBLIC_IP:8089
 
 ## 📸 Screenshots
 
-> Replace these with your own screenshots after completing the project.
+
 
 | Step | Screenshot |
 |------|-----------|
@@ -450,6 +450,6 @@ http://YOUR_EC2_PUBLIC_IP:8089
 
 ## 👨‍💻 Author
 
-**YOUR_NAME**  
+Aditya Shrivastav  
 B.Tech Computer Science Engineering  
 DevOps | Cloud | CI/CD | AWS | Docker | Jenkins
