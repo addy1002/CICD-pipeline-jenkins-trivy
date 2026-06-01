@@ -67,13 +67,13 @@ sudo apt install fontconfig openjdk-21-jre -y
 java -version   # should print version 21.x
 ```
 
-```bash
+
 # Install jenkins
 https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
 
 <img width="1470" height="810" alt="image" src="https://github.com/user-attachments/assets/9f9c67fe-e5a5-4f9f-a5b8-106d7a444971" />
 
-
+```bash
 # Start Jenkins
 sudo systemctl start jenkins
 sudo systemctl enable jenkins
