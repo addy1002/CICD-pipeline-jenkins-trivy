@@ -68,17 +68,11 @@ java -version   # should print version 21.x
 ```
 
 ```bash
-# Add Jenkins repo
-sudo wget -O /etc/apt/keyrings/jenkins-keyring.asc \
-  https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key
+# Install jenkins
+https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
 
-echo "deb [signed-by=/etc/apt/keyrings/jenkins-keyring.asc] \
-  https://pkg.jenkins.io/debian-stable binary/" | \
-  sudo tee /etc/apt/sources.list.d/jenkins.list > /dev/null
+<img width="1470" height="810" alt="image" src="https://github.com/user-attachments/assets/9f9c67fe-e5a5-4f9f-a5b8-106d7a444971" />
 
-# Install Jenkins
-sudo apt update
-sudo apt install jenkins -y
 
 # Start Jenkins
 sudo systemctl start jenkins
